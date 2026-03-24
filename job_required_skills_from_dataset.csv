@@ -1,0 +1,7 @@
+job_role,required_skills
+Data Analyst,"Python, SQL, Data Analysis, Excel"
+Data Scientist,"Python, Machine Learning, SQL, Data Analysis"
+Software Engineer,"Java, C++, Linux, AWS"
+Web Developer,"HTML, CSS, JavaScript"
+System Administrator,"Linux, AWS, Python"
+AI Engineer,"Python, Machine Learning, C++, AWS"
